@@ -1,0 +1,15 @@
+cluster 898 (Physics and geometric)   removed 'introducer'
+
+cluster 905 ( social interactions, relationships, and community)   removed 'birds'
+
+cluster 970 (astronomical and space-related concepts) 
+
+cluster 989 (automotive and mechanical contexts) 
+
+cluster 1112 (virtualization and IT infrastructure)
+
+cluster 1498 (geographical locations and places)  removed 'dentists, relocation, complaint, tutors, movers, dam, dept, recreation, dentist'
+
+cluster 1275 ( recognition, contribution, and evolving principles)  
+
+cluster 1113 (French and Spanish)
