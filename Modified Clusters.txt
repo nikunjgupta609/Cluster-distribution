@@ -13,3 +13,5 @@ cluster 1498 (geographical locations and places)  removed 'dentists, relocation,
 cluster 1275 ( recognition, contribution, and evolving principles)  
 
 cluster 1113 (French and Spanish)
+
+cluster 1519 (Iron and welds)
