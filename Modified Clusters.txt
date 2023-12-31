@@ -15,3 +15,7 @@ cluster 1275 ( recognition, contribution, and evolving principles)
 cluster 1113 (French and Spanish)
 
 cluster 1519 (Iron and welds)
+
+cluster 1520 (Stationary Items)
+
+cluster 1521 (Crafting Items)
