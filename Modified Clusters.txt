@@ -19,3 +19,45 @@ cluster 1519 (Iron and welds)
 cluster 1520 (Stationary Items)
 
 cluster 1521 (Crafting Items)
+
+
+cluster 1322 (time/duration)
+
+cluster 1500 (payment,billing)
+
+cluster 1501 (reservation/ticket)
+
+cluster 1502 (balance/loan/cash)
+
+cluster 1503 (rewards/bonus)
+
+cluster 1504 (taxes/custom)
+
+cluster 1505 (shipment/courier)
+
+cluster 1506 (secure/confidential)
+
+cluster 1507 (inquiry/question)
+
+cluster 1508 (renew)
+
+cluster 1509 (dues)
+
+cluster 1510 (documents)
+
+cluster 1511 (currency)
+
+cluster 1512 (auction)
+
+cluster 1513 (enroll/admission)
+
+cluster 1514 (cards/visa,debit,credit-cards)
+
+cluster 1515 (invoice)
+
+cluster 1516 (repay/refund)
+
+cluster 1517 (merchant/dealer) 
+
+cluster 1518 (urgent/quick) 
+
