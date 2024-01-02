@@ -66,3 +66,7 @@ Cluster 1351 (music and musical instruments)
 Cluster 1377 (health conditions/treatments/diseases/injuries/body parts functions)
 
 Cluster 1407 (movements/actions)
+
+Cluster 1442 (electronics components)
+
+Cluster 1538 (measurement units)
