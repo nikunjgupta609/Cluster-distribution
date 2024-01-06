@@ -126,3 +126,12 @@ Cluster 1208 (Compliance Terms)
 
 Cluster 1553 (Qualifications and Standards)
 
+Cluster 1293 (accommodation type)
+
+Cluster 1569 (room type)
+
+Cluster 1570 (furniture)
+
+Cluster 1571 (hotel facilities)
+
+Cluster 1572 (hotel services)
