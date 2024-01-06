@@ -1390,7 +1390,7 @@ Cluster 1388: ['ç', 'é']
 Cluster 1389: ['member']
 Cluster 1390: ['export']
 Cluster 1391: []
-Cluster 1392: ['candidates', 'delegate', 'poll', 'candidate', 'conservative', 'polling', 'polled', 'independents', 'polls', 'incumbents', 'vote', 'votes', 'mps', 'voting', 'primaries', 'election', 'governor', 'elected', 'voted', 'undecided', 'voters', 'elections', 'obama', 'romney', 'barack', 'runoff', 'mccain', 'constituency', 'candidacy', 'voter', 'legislative', 'senate', 'recount', 'precincts', 'electoral', 'elect', 'ballot', 'clinton', 'presidential', 'democratic', 'republican', 'endorse', 'constituencies', 'legislature', 'nominating', 'nominate', 'legislators', 'senators', 'incumbent', 'liberal', 'nominations', 'legislator', 'precinct', 'gop', 'opposition']
+Cluster 1392: ['candidates', 'candidate', 'candidacy', 'nominate', 'nominations', 'nominating', 'endorse', 'nominee']
 Cluster 1393: ['loss', 'losses']
 Cluster 1394: ['population', 'populations', 'census', 'demographics']
 Cluster 1395: 'catalyst', 'impurity', 'affinity', 'decay', 'decomposed', 'reprocessing', 'injecting', 'localized', 'splice', 'localization', 'annealed', 'annealing', 'selenium', 'intrinsic', 'differentiated', 'decays', 'morphology', 'branched', 'additive', 'injected','dopamine', 'accumulation', 'branching', 'precursor', 'precursors', 'cns', 'potentials', 'induction', 'induces', 'induced', 'fragment', 'asymmetric', 'signaling', 'hybridized', 'suppression', 'fused', 'neurons', 'decompose', 'plasma', 'fragments', 'signalling', 'cyclic', 'inhibit','preferentially', 'ingested', 'encapsulated', 'neuron', 'composites', 'constituent', 'fragmentation', 'chromium', 'leakage', 'initiator', 'synthesis', 'synthesized', 'nox', 'ester', 'scaffolds', 'weakly', 'enriched', 'metals', 'purity', 'graphene', 'trapping', 'decomposing', 'granular', 'thorium']
@@ -1565,6 +1565,9 @@ Cluster 1563: ['clade', 'clades', 'complementation', 'gwas', 'lineages', 'orthol
 Cluster 1564: ['pickling', 'sieve', 'sift', 'drained', 'rinsed', 'soak', 'colander']
 Cluster 1565: ['celery', 'prune', 'stale', 'prunes', 'salted', 'sprinkle', 'sprinkled', 'coarse', 'scrubbed', 'bunches', 'stems', 'flesh', 'minced', 'carrots', 'mouthful', 'digestible']
 Cluster 1566: ['mutation', 'mutations', 'mutant', 'mutated', 'mutants', 'genomic', 'genomics', 'genetics', 'eukaryotic']
+Cluster 1567: ['poll', 'polling', 'polled', 'polls', 'vote', 'votes', 'voting', 'primaries', 'undecided', 'voters', 'elections', 'runoff', 'recount', 'electoral', 'elect', 'ballot']
+Cluster 1568: ['conservative', 'independents', 'mps', 'governor', 'elected', 'obama', 'romney', 'barack', 'mccain', 'constituency', 'legislative', 'senate', 'constituencies', 'legislature', 'legislators', 'senators', 'incumbent', 'liberal', 'legislator', 'precinct', 'gop', 'opposition', 'presidential', 'clinton']
+
 
  
 
