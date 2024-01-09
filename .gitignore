@@ -1,0 +1,7 @@
+
+*.ipynb
+*.iml
+*.xml
+.ipynb_checkpoints/cluster_output_Davies_1500-checkpoint.txt
+.ipynb_checkpoints/cluster_output_Davies_1500-Copy1-checkpoint.txt
+cluster_output_Davies_1500-Copy1.txt
